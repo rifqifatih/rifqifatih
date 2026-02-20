@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contributions
+![Notable contributions](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/metrics.plugin.notable.svg)
