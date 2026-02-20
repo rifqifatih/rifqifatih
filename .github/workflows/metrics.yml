@@ -22,3 +22,4 @@ jobs:
           plugin_notable_repositories: yes   # shows repo names, not just orgs
           plugin_notable_types: commit,pull_request,issue  # what counts as "notable"
           plugin_notable_self: no            # exclude your own repos (you want external contributions)
+          plugin_notable_from: all
