@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Contributions
-![Notable contributions](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/metrics.plugin.notable.svg)
+![Contributions](https://github.com/rifqifatih/rifqifatih/blob/main/metrics.plugin.notable.svg)
