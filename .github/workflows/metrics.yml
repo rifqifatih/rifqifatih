@@ -23,4 +23,4 @@ jobs:
           plugin_notable_types: commit,pull_request,issue  # what counts as "notable"
           plugin_notable_self: no            # exclude your own repos (you want external contributions)
           plugin_notable_from: all
-          plugin_notable_filter: hyperjumptech/grule-rule-engine
+          plugin_notable_filter: stars:>0
