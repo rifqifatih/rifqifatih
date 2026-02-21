@@ -1,4 +1,4 @@
-<!--### Hi there 👋-->
+### Hi there 👋
 
 <!--
 **rifqifatih/rifqifatih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### Contributions
 ![Contributions](https://github.com/rifqifatih/rifqifatih/blob/main/metrics.plugin.notable.svg)
+-->
