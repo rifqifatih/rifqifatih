@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-### Contributions
-![Contributions](https://github.com/rifqifatih/rifqifatih/blob/main/metrics.plugin.notable.svg)
--->
+### Notable Contributions
+
+<!-- NOTABLE-PRS:START -->
+<!-- NOTABLE-PRS:END -->
