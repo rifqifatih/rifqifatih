@@ -15,7 +15,7 @@ jobs:
     env:
       # --- tweak these to taste ---
       MAX_PRS: "10"          # number of rows to display
-      MIN_STARS: "0"         # only include repos with at least this many stars
+      MIN_STARS: "1"         # only include repos with at least this many stars
       ONE_PER_REPO: "true"   # one row per repository; set "false" to list every PR
     steps:
       - uses: actions/checkout@v4
