@@ -104,11 +104,7 @@ function buildSection(prs) {
     countByRepo.set(key, (countByRepo.get(key) || 0) + 1);
   }
 
-  candidates.sort((a, b) => {
-    const byStars = b.repository.stargazerCount - a.repository.stargazerCount;
-    if (byStars !== 0) return byStars;
-    return new Date(b.mergedAt) - new Date(a.mergedAt);
-  });
+  candidates.sort((a, b) => new Date(b.mergedAt) - new Date(a.mergedAt));
 
   if (ONE_PER_REPO) {
     const seen = new Set();
