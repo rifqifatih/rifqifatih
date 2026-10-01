@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 | [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) | [Support for evaluating Interface and Pointer](https://github.com/hyperjumptech/grule-rule-engine/pull/349) | ⭐ 2.5k | 2023 |
 | [getmoto/moto](https://github.com/getmoto/moto) | [ECS: add placement constraints](https://github.com/getmoto/moto/pull/2948) | ⭐ 8.7k | 2020 |
 | [cloudbees-oss/zendesk-java-client](https://github.com/cloudbees-oss/zendesk-java-client) | [Add get articles by category](https://github.com/cloudbees-oss/zendesk-java-client/pull/154) | ⭐ 161 | 2016 |
-| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | [Add OpenAI Gym](https://github.com/josephmisiti/awesome-machine-learning/pull/317) ([+1 more](https://github.com/josephmisiti/awesome-machine-learning/pulls?q=is%3Apr+author%3Arifqifatih)) | ⭐ 74k | 2016 |
+| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | [Add OpenAI Gym](https://github.com/josephmisiti/awesome-machine-learning/pull/317) ([+1 more](https://github.com/josephmisiti/awesome-machine-learning/pulls?q=is%3Apr+author%3Arifqifatih)) | ⭐ 75k | 2016 |
 
 <!-- NOTABLE-PRS:END -->
