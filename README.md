@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Notable Contributions
+### Public Contributions
 
 <!-- NOTABLE-PRS:START -->
 

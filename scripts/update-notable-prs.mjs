@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Regenerates the "Notable Contributions" section of README.md.
+// Regenerates the "Public Contributions" section of README.md.
 //
 // The lowlighter/metrics "notable" plugin is backed by GitHub's
 // `repositoriesContributedTo` field, which only surfaces *recent*
