@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 | Repository | Pull Request | Stars | Merged |
 | --- | --- | --- | --- |
-| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | [STEP import: CJK names read back whole (#2344)](https://github.com/tangency-labs/solidcraft/pull/2347) | ⭐ 9.4k | 2026 |
+| [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | [STEP import: CJK names read back whole (#2344)](https://github.com/tangency-labs/solidcraft/pull/2347) | ⭐ 9.8k | 2026 |
 | [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) | [Support for evaluating Interface and Pointer](https://github.com/hyperjumptech/grule-rule-engine/pull/349) | ⭐ 2.5k | 2023 |
 | [getmoto/moto](https://github.com/getmoto/moto) | [ECS: add placement constraints](https://github.com/getmoto/moto/pull/2948) | ⭐ 8.7k | 2020 |
 | [cloudbees-oss/zendesk-java-client](https://github.com/cloudbees-oss/zendesk-java-client) | [Add get articles by category](https://github.com/cloudbees-oss/zendesk-java-client/pull/154) | ⭐ 160 | 2016 |
